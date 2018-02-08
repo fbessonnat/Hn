@@ -3,6 +3,6 @@
 echo "hello";
 echo " world";
 echo "update";
-
+phpinfo();
 ?>
 
